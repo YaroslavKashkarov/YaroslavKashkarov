@@ -1,6 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yaroslav Kashkarov
 
-## I am a junior frontend developer
+## I am junior frontend developer
 
 My path to IT began with programming at the SkillUp school in 2023. During my time at school, I learned how to work with such tools as: HTML, CSS, SASS and LESS preprocessors, GULP, JavaScript and Typescript, Angular, Webpack and much more. At the moment I am very much interested in web development and plan to improve my skills
 
