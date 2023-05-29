@@ -43,11 +43,3 @@ src="https://img.shields.io/github/followers/YaroslavKashkarov?logo=github&style
 <a href="http://www.github.com/YaroslavKashkarov"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=YaroslavKashkarov&bg_color=ffffff&color=000000&line=0891b2&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/YaroslavKashkarov" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaroslavKashkarov&langs_count=10&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/YaroslavKashkarov/https://yaroslavkashkarov.github.io/project_9_Grid_Template/" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=YaroslavKashkarov&repo=https://yaroslavkashkarov.github.io/project_9_Grid_Template/&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/YaroslavKashkarov/https://yaroslavkashkarov.github.io/project_12_Bootstrap_Template/" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=YaroslavKashkarov&repo=https://yaroslavkashkarov.github.io/project_12_Bootstrap_Template/&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/YaroslavKashkarov/https://yaroslavkashkarov.github.io/project_3_HTML_and_CSS/" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=YaroslavKashkarov&repo=https://yaroslavkashkarov.github.io/project_3_HTML_and_CSS/&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a></div>
