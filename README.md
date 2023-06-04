@@ -4,14 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am JUNIOR FRONTEND DEVELOPER
 --------------------------------
 
-My path to IT began with programming at the SkillUp school in 2023. During my time at school, I learned how to work with such tools as: HTML, CSS, SASS and LESS preprocessors, GULP, JavaScript and Typescript, Angular, Webpack and much more. At the moment I am very much interested in web development and plan to improve my skills.
+My path to IT began with programming at the SkillUp school in 2023. During my time at school, I learned how to work with such tools as: HTML, CSS, SASS and LESS preprocessors, GULP, JavaScript and Typescript, Angular, Webpack and much more. At the moment I am very much interested in web development and plan to improve my skills
 
 * 🌍  I'm based in from Ukraine, currently working and living in Poland
 * ✉️  You can contact me at [yaroslavkashkarov@gmail.com](mailto:yaroslavkashkarov@gmail.com)
 * 🤝  I'm open to collaborating on
 
-<a href="https://www.github.com/YaroslavKashkarov" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/YaroslavKashkarov?logo=github&style=for-the-badge&color=0891b2&labelColor=ffffff" /></a>
 ### Skills
 
 <p align="left">
@@ -40,6 +38,8 @@ src="https://img.shields.io/github/followers/YaroslavKashkarov?logo=github&style
 
 <a href="http://www.github.com/YaroslavKashkarov"><img src="https://github-readme-streak-stats.herokuapp.com/?user=YaroslavKashkarov&stroke=000000&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=000000&currStreakLabel=0891b2&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 
-<a href="http://www.github.com/YaroslavKashkarov"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=YaroslavKashkarov&bg_color=ffffff&color=000000&line=0891b2&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/YaroslavKashkarov" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaroslavKashkarov&langs_count=10&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
