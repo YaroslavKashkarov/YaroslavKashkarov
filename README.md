@@ -34,9 +34,6 @@ Thank you for visiting my profile. I will be glad to cooperate and open to discu
 ### Socials
 
 <p align="left"> <a href="https://www.facebook.com/yarik.kashkarov/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/YaroslavKashkarov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/yarikkashkarov/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/yaroslav-kashkarov-23a8a826a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-### Badges
-
-<b>My GitHub Stats</b>
 
 <a href="http://www.github.com/YaroslavKashkarov"><img src="https://github-readme-stats.vercel.app/api?username=YaroslavKashkarov&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="YaroslavKashkarov's GitHub stats" /></a>
 
