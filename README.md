@@ -4,13 +4,17 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am JUNIOR FRONTEND DEVELOPER
 --------------------------------
 
-My path to IT began with programming at the SkillUp school in 2023. During my time at school, I learned how to work with such tools as: HTML, CSS, SASS and LESS preprocessors, GULP, JavaScript and Typescript, Angular, Webpack and much more. At the moment I am very much interested in web development and plan to improve my skills
+Hi, welcome to my GitHub profile!
+
+I am software developer with a focus on creating innovative and high-quality solutions. My commitment to continuous development and passion for programming make me ready to take on any technical challenges. My experience includes software development using various programming languages and technologies. I own Javascript, Typescript and have experience working with frameworks and tools such as Bootstrap, Angular. I am confident in my frontend development skills and am able to create scalable and efficient web applications. My approach to development is based on best practices, testing and code maintainability. In my GitHub profile, you will find my projects demonstrating my development skills and style. I try to maintain active interaction with the developer community and participate in open projects. I am open to cooperation and ready to contribute to interesting and significant projects. If you are looking for a talented and fruitful software developer who brings innovation and tries to achieve the best results, I will be glad to be part of your team. Contact me and let's create something amazing together!
+
+Thank you for visiting my profile. I will be glad to cooperate and open to discussing opportunities!
 
 * 🌍  I'm based in from Ukraine, currently working and living in Poland
 * ✉️  You can contact me at [yaroslavkashkarov@gmail.com](mailto:yaroslavkashkarov@gmail.com)
 * 🤝  I'm open to collaborating on
 
-### Skills
+### Hard Skills
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
