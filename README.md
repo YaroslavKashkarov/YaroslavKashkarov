@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yaroslav Kashkarov
 ==========================================================================================================================================
 
-I am JUNIOR FRONTEND DEVELOPER
+I am FRONTEND DEVELOPER (Angular)
 --------------------------------
 
 Hi! I present myself as a Front end Developer and am interested in various aspects of information technology. My passion for computers and technical innovations started at school and against this background I decided to study programming. I was inspired by Frontend development and that's why I completed programming courses at the Skillup IT School in 2023. During the training, I gained a wide range of knowledge in the field of information technology, such as HTML, CSS, CSS Bootstrap, Adobe Photoshop, JavaScript, Typescript, jQuery, Git, GitHub, Firebase, Webpack, Gulp, Angular, and Angular Material, as well as adaptive layout, visual design of the site, and development of web applications. I am constantly striving to expand my skills and follow the latest trends in the world of information technology.
