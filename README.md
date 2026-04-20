@@ -9,11 +9,8 @@
 - ✉️ You can contact me at [yaroslavkashkarov@gmail.com](mailto:yaroslavkashkarov@gmail.com)  
 - 🧠 I'm currently learning React, Node.js, Angular and another technologies  
 - 👥 I'm looking to collaborate on Frontend and Backend technologies  
-<br/>
 
 ## My Skill Set  
-
-### Frontend  
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
@@ -41,15 +38,10 @@
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
 <a href="http://getbem.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="50" /></a>  
 </div>
-<br/>  
-
 
 ## Connect with me  
 <p align="left"> <a href="https://www.github.com/YaroslavKashkarov" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/yaroslav-kashkarov/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>  
-<br/>  
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=YaroslavKashkarov&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 50%" /></div>  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaroslavKashkarov&hide_border=true&layout=compact" align="center" /></div>    
-
-<br/>
