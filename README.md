@@ -1,7 +1,9 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Yaroslav Kashkarov  
-### **Angular Frontend Developer | RxJS | Scalable Applications | Performance Optimization**
+### **Middle Full-Stack Developer React | Node.js | Nest | Angular | RxJs | AI tools | Scalable Applications | Performance Optimization**
   
-Frontend Developer with 4+ years of experience building scalable and high-performance web applications using Angular and TypeScript. Specialized in developing modular architectures, optimizing performance (lazy loading, code splitting, OnPush change detection), and working with reactive programming using RxJS. Experienced in integrating REST APIs, building dynamic user interfaces, and delivering production-ready applications with focus on maintainability and performance. Thank you for visiting my profile. I will be glad to cooperate and open to discussing opportunities!  
+**Middle Full-Stack Developer** with 4+ years of experience building scalable, high-performance web applications using Angular, TypeScript, Node.js, and REST APIs. Experienced in developing modular architectures, creating responsive user interfaces, implementing backend logic, and integrating frontend and backend services. Strong knowledge of Angular, RxJS, performance optimization, and maintainable code practices, with a focus on delivering reliable, production-ready solutions.
+
+Thank you for visiting my profile! I’m open to new opportunities, collaboration, and exciting projects.  
   
 - 🌍 I'm from Ukraine, currently working and living in Poland  
 - 🖥️ See my portfolio at [https://yaroslavkashkarov.github.io/My_portfolio/](http://yaroslavkashkarov.github.io/My_portfolio/)  
